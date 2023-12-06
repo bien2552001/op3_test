@@ -1,0 +1,8 @@
+prefix=/home/bien/ros1/clone_project/no1_op3/op3_test/op3_test/no2_ROBOTIS-OP3-Common/devel
+
+Name: op3_gazebo
+Description: Description of op3_gazebo
+Version: 0.1.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
